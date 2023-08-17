@@ -16,7 +16,7 @@ This is a simple TodoList application built using React. It allows you to manage
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone 
+   git clone https://github.com/akashakerror404/todo_react_app.git
 
 2. Navigate to your desired directory using the `cd` command.
 3. Run the following command to run the file:
